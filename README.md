@@ -1,16 +1,19 @@
-## Hi, I'm Krishna Goyal 👋
+## Hi, I'm Krishna Gupta 👋
 
-**Full-stack + AI engineer.** I build applied-AI products end to end — LLM apps and agents, machine
-learning with honest evaluation, real-time computer vision — together with the APIs, dashboards and
+**Full-stack + AI engineer** · B.Tech in Computer Science & Business Systems at **Amity University, Noida**
+(2023–2027) · Delhi NCR, India
+
+I build applied-AI products end to end — LLM apps and agents, automation workflows, machine learning
+with honest evaluation, and real-time computer vision — together with the APIs, dashboards and
 tooling that make them usable.
 
+- 💼 **AI Automation Engineer Intern, Toyota Boshoku Device India** (May–Jul 2026) — AI-enabled
+  factory digitization: n8n AI automation workflows, digital-twin and paper-to-digital dashboards, and
+  industrial data with Python, TypeScript, REST APIs, PostgreSQL and MQTT.
 - 🎯 Open to **software and AI engineering internships**
-- 🧠 Interested in LLM agents and retrieval, ML for industry (maintenance, tracking, reliability), and computer vision
-- ✅ How I work: tests and CI on every project, and results reported with what they *don't* show
-<!-- Add your details and remove the comment markers:
-- 🎓 B.Tech in ______ at ______ (20__)
-- 📫 your.email@example.com · [LinkedIn](https://www.linkedin.com/in/your-handle)
--->
+- 📫 [dkgoel2005@gmail.com](mailto:dkgoel2005@gmail.com)
+- 🎖️ Google Project Management Professional Certificate · founder of Caelith, a fragrance and
+  lifestyle brand · state-level competitive shooter
 
 ### ⭐ Featured projects
 
@@ -22,6 +25,19 @@ tooling that make them usable.
 | 🏭 **[Predictive Maintenance ML](https://github.com/Krishna-44/predictive-maintenance-ml)** | Predicts machine failures, remaining useful life and anomalies from sensor data, with leakage-free evaluation and alert thresholds set from maintenance costs. Fleet dashboard included. | Python · scikit-learn · pandas · FastAPI |
 | 📄 **[Resume–Job Matcher](https://github.com/Krishna-44/resume-job-matcher)** | Explainable resume screening: skill evidence, partial credit for related skills, gap analysis, and personal details removed before anything is scored. | Python · NLP · FastAPI |
 | 📈 **[AIFOS](https://github.com/Krishna-44/trading-model-llm-)** | A paper-first, multi-agent trading research platform: an agent committee, a risk engine with kill switches, walk-forward backtests, and a hard gate in front of live trading. | Python · FastAPI · PyTorch · Next.js |
+
+### 🔒 Recent work in private repositories
+
+- **ASTRA — Autonomous Disaster Intelligence Mesh** — mission-control platform for autonomous
+  disaster response: node monitoring, mission planning and approval, and live mission state over REST
+  and WebSockets, backed by 388 passing backend tests; drones and IoT nodes integrated via MQTT,
+  ArduPilot, ESP32, GPS and LoRa. *React · FastAPI · PostgreSQL · Supabase · MQTT*
+- **Enterprise AI Governance Platform** — an AI gateway with routing and fallback across multiple LLM
+  providers, policy controls, model access and auditability, plus embeddings search with pgvector
+  (HNSW). *FastAPI · PostgreSQL · pgvector*
+- **AI-Powered Medical Wholesale Automation** — camera + OCR workflow for medicine identification,
+  batch verification, picking, billing and inventory updates, with handling for batch and quantity
+  exceptions. *Python · OCR · Raspberry Pi · PostgreSQL*
 
 ### 🔧 More projects
 
@@ -40,14 +56,18 @@ tooling that make them usable.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **AI / ML**
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Web & backend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -59,9 +79,12 @@ tooling that make them usable.
 
 **Data & infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
